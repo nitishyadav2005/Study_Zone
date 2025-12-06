@@ -40,8 +40,8 @@ cards.forEach(card => {
 });
 
 // ===== Welcome Popup =====
-window.addEventListener("load", () => {
-  setTimeout(() => {
-    alert("👋 Welcome to Study Zone!\nExplore NCERT + Board questions with detailed solutions.");
-  }, 800);
-});
+// window.addEventListener("load", () => {
+//   setTimeout(() => {
+//     alert("👋 Welcome to Study Zone!\nExplore NCERT + Board questions with detailed solutions.");
+//   }, 800);
+// });
